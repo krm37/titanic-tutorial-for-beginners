@@ -1,4 +1,4 @@
-# Titanic Dataset Project
+# Titanic Project
 
 This project utilizes the Titanic dataset to analyze the survival status of passengers during the sinking of the Titanic. The dataset contains demographic information about the passengers and their conditions on the ship. It serves as a foundational resource for applications in machine learning and data analysis.
 
